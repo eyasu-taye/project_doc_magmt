@@ -19,7 +19,6 @@ This project is a simple Laravel-based web application designed to manage and st
 
 - User authentication and authorization
 - Document upload and management
-- Full-text search functionality
 - Register new project
 - Register new user
 - Track comlated projects
