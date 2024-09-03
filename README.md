@@ -13,7 +13,7 @@ A web application built with Laravel, a PHP framework for web artisans.
 
 ## Introduction
 
-This project is a simple Laravel-based web application designed to manage and store various types of project documents. It demonstrates the use of Laravel for building scalable and maintainable web applications.
+This project is a Laravel-based web application designed to manage and store various types of project records and documents. It demonstrates the use of Laravel for building scalable and maintainable web applications.
 
 ## Features
 
