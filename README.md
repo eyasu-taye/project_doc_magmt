@@ -8,6 +8,7 @@ A web application built with Laravel, a PHP framework for web artisans.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Preview](#Preview)
 
 ## Introduction
 
@@ -23,6 +24,9 @@ This project is a Laravel-based web application designed to manage and store var
 - Track inprogress projects
 - Track future projects
 - Responsive design with Bootstrap
+
+## Preview
+![smaple screeshoot](assets/images/sample-image.png)
 
 ## Installation
 
