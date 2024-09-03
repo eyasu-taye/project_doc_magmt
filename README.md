@@ -26,7 +26,7 @@ This project is a Laravel-based web application designed to manage and store var
 - Responsive design with Bootstrap
 
 ## Preview
-![smaple screeshoot](assets/images/sample_image1.png)
+![smaple screeshoot](assets/images/sample_image.png)
 Sample screen shoot with a file opened
 ![smaple screeshoot](assets/images/sample_image1.png)
 
