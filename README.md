@@ -28,7 +28,7 @@ This project is a Laravel-based web application designed to manage and store var
 ## Preview
 ![smaple screeshoot](assets/images/screencapture-172-30-20-3-2024-09-03-15_51_49.png)
 Sample screen shoot with a file opened
-![smaple screeshoot](assets/images/sample_image1.png)
+![smaple screeshoot](assets/images/screencapture-172-30-20-3-2024-09-03-15_55_48.png)
 
 ## Installation
 
